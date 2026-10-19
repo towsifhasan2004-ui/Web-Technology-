@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid black;
+}
